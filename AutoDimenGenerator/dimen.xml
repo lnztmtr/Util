@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--for text size -->
+    <dimen name="size_16sp">16sp</dimen>
+    <dimen name="size_18sp">18sp</dimen>
+    <dimen name="size_20sp">20sp</dimen>
+    <dimen name="size_25sp">25sp</dimen>
+    <dimen name="size_30sp">30sp</dimen>
+    <dimen name="size_40sp">40sp</dimen>
+
+
+    <!--for normal size -->
+    <dimen name="spacing_4dp">4dp</dimen>
+    <dimen name="spacing_5dp">5dp</dimen>
+    <dimen name="spacing_8dp">8dp</dimen>
+    <dimen name="spacing_10dp">10dp</dimen>
+    <dimen name="spacing_16dp">16dp</dimen>
+    <dimen name="spacing_20dp">20dp</dimen>
+    <dimen name="spacing_22dp">22dp</dimen>
+    <dimen name="spacing_24dp">24dp</dimen>
+    <dimen name="spacing_30dp">30dp</dimen>
+    <dimen name="spacing_34dp">34dp</dimen>
+    <dimen name="spacing_35dp">35dp</dimen>
+    <dimen name="spacing_40dp">40dp</dimen>
+    <dimen name="spacing_50dp">50dp</dimen>
+    <dimen name="spacing_60dp">60dp</dimen>
+    <dimen name="spacing_70dp">70dp</dimen>
+    <dimen name="spacing_75dp">75dp</dimen>
+    <dimen name="spacing_80dp">80dp</dimen>
+    <dimen name="spacing_100dp">100dp</dimen>
+    <dimen name="spacing_150dp">150dp</dimen>
+    <dimen name="spacing_250dp">250dp</dimen>
+    <dimen name="spacing_300dp">300dp</dimen>
+    <dimen name="spacing_350dp">@dimen/spacing_300dp</dimen>
+</resources>

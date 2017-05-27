@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ScreenSolutionConvert</string>
+
+    <string name="phone_dpi">目标手机</string>
+    <string name="phone_inch">目标手机</string>
+    <string name="phone_unit_dpi">dpi</string>
+    <string name="phone_unit_inch">inch</string>
 </resources>

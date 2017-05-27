@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorResult">#3178b9</color>
+    <color name="base_et_bg">#4c000000</color>
+    <color name="base_et_bg_stroke">#4c8614ab</color>
+    <color name="base_et_bg_select">#4c292929</color>
+    <color name="base_btn_oval">#4cffffff</color>
+    <color name="base_btn_oval_stroke">#94ffffff</color>
+    <color name="transparent">#00000000</color>
 </resources>
