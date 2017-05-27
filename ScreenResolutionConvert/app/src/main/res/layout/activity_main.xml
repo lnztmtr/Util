@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/select_edittext"
-                android:hint="目标手机宽"
+                android:hint="目标手机宽px"
                 android:inputType="numberDecimal"
                 android:padding="4dp"
                 android:textSize="12sp"/>
@@ -62,7 +62,7 @@
                 android:layout_marginLeft="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/select_edittext"
-                android:hint="目标手机高"
+                android:hint="目标手机高px"
                 android:inputType="numberDecimal"
                 android:padding="4dp"
                 android:textSize="12sp"/>
@@ -159,7 +159,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/select_edittext"
-                android:hint="UI参照分辨率宽"
+                android:hint="UI参照分辨率宽px"
                 android:inputType="numberDecimal"
 
                 android:padding="4dp"
@@ -172,7 +172,7 @@
                 android:layout_marginLeft="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/select_edittext"
-                android:hint="UI参照分辨率高"
+                android:hint="UI参照分辨率高px"
                 android:inputType="numberDecimal"
                 android:padding="4dp"
                 android:textSize="12sp"/>
@@ -199,7 +199,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/select_edittext"
-                android:hint="控件宽"
+                android:hint="控件宽px"
                 android:inputType="numberDecimal"
                 android:padding="4dp"
                 android:textSize="12sp"/>
@@ -210,7 +210,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/select_edittext"
-                android:hint="控件高"
+                android:hint="控件高px"
                 android:inputType="numberDecimal"
                 android:padding="4dp"
                 android:layout_marginLeft="4dp"
